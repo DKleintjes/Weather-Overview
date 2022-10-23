@@ -1,0 +1,49 @@
+{
+    "user": [
+        {
+            "naam": "naam"
+        }
+    ],
+    "steden": [
+        {
+            "naam": "amsterdam",
+            "degrees": 7.72,
+            "windpower": 7.72
+        },
+        {
+            "naam": "Germany",
+            "degrees": 4.75,
+            "windpower": 4.75
+        },
+        {
+            "naam": "Paris",
+            "degrees": 5.14,
+            "windpower": 5.14
+        },
+        {
+            "naam": "rotterdam",
+            "degrees": 6.17,
+            "windpower": 6.17
+        },
+        {
+            "naam": "nijmegen",
+            "degrees": 5.42,
+            "windpower": 5.42
+        },
+        {
+            "naam": "utrecht",
+            "degrees": 1.79,
+            "windpower": 1.79
+        },
+        {
+            "naam": "Amstelveen",
+            "degrees": 4.92,
+            "windpower": 4.92
+        },
+        {
+            "naam": "Uithoorn",
+            "degrees": 3.09,
+            "windpower": 3.09
+        }
+    ]
+}
